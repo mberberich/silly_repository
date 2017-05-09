@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Megan Berberich
+Copyright (c) 2017 Megan Berberich, Ishi Buffam & Trinity Hamilton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
